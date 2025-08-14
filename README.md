@@ -9,7 +9,8 @@
 coverage](https://codecov.io/gh/d-morrison/test.snapshot.skips/graph/badge.svg)](https://app.codecov.io/gh/d-morrison/test.snapshot.skips)
 <!-- badges: end -->
 
-The goal of test.snapshot.skips is to …
+The goal of test.snapshot.skips was to provide a reprex for https://github.com/r-lib/testthat/issues/2066; 
+see discussion there and in https://github.com/r-lib/testthat/pull/2216 for why the reprex is invalid.
 
 ## Installation
 
