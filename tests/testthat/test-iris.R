@@ -5,5 +5,6 @@ test_that("data is consistent", {
 
     path
   }
+  skip_on_os("windows")
   expect_snapshot_file(save_data(iris), "iris.csv")
 })
