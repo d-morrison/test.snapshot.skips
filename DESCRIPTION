@@ -9,6 +9,10 @@ License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-Suggests: 
-    testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Imports: 
+    testthat (>= 3.2.3.9000)
+Remotes: 
+    r-lib/testthat@snap-filtering
+URL: https://github.com/d-morrison/test.snapshot.skips
+BugReports: https://github.com/d-morrison/test.snapshot.skips/issues
