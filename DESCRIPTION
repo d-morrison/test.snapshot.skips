@@ -11,8 +11,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Config/testthat/edition: 3
 Imports: 
-    testthat (>= 3.2.3.9000)
-Remotes: 
-    r-lib/testthat@snap-filtering
+    testthat
 URL: https://github.com/d-morrison/test.snapshot.skips
 BugReports: https://github.com/d-morrison/test.snapshot.skips/issues
