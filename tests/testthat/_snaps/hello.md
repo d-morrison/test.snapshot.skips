@@ -1,4 +1,4 @@
-# works on Windows
+# works on Mac
 
     Code
       hello()

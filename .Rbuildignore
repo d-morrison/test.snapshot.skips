@@ -1,2 +1,4 @@
 ^test\.snapshot\.skips\.Rproj$
 ^\.Rproj\.user$
+^\.github$
+^README\.Rmd$
